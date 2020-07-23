@@ -1,4 +1,4 @@
-package com.PrimitiveReferenceTypeComparison;
+package com.primitivereferencetypecomparison;
 
 import java.util.Arrays;
 

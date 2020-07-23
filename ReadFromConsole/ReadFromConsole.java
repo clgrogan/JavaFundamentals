@@ -1,4 +1,4 @@
-package com.ReadFromConsole;
+package com.readfromconsole;
 
 import java.util.Scanner;
 
